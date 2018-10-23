@@ -1,5 +1,5 @@
 
-Knights Duel
+# Knights Duel
 
 GameMaker Studio Personal Project
 
